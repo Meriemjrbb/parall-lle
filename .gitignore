@@ -1,0 +1,22 @@
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Build output
+bin/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Java files
+*.class
+
+# VS Code settings/workspace
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
